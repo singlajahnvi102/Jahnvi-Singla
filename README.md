@@ -9,10 +9,11 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ## 📊 Aspiring Data Analyst | MBA (Business Analytics)
 
-I enjoy solving business problems with data by uncovering patterns, building dashboards, and delivering actionable insights. My goal is to transform raw data into meaningful decisions that create business value.
-
+I am an MBA (Business Analytics) student passionate about transforming data into actionable business insights. I enjoy using SQL, Python, Excel, and Power BI to solve real-world business problems through data analysis, visualization, and storytelling.
 My GitHub showcases projects focused on data cleaning, exploratory data analysis, business intelligence, dashboard development, and data visualization. I believe that every dataset tells a story, and I love uncovering it.
 
 ---
