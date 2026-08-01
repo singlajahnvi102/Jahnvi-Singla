@@ -52,32 +52,6 @@ My GitHub showcases projects focused on data cleaning, exploratory data analysis
 - Problem Solving
 - Storytelling with Data
 
----
-
-## 📂 Featured Projects
-
-### 📌 CRM Sales Pipeline Analysis
-- SQL-based business analysis
-- Customer pipeline insights
-- Sales performance analysis
-- KPI reporting
-- Business recommendations
-
-### ☕ Monday Coffee Shop Analysis
-- Sales trend analysis
-- Interactive Power BI dashboard
-- Business performance insights
-- Growth recommendations
-
-### 📊 More Projects Coming Soon...
-
-- Customer Churn Analysis
-- HR Analytics Dashboard
-- Financial Analytics Dashboard
-- Python Data Analysis Projects
-
----
-
 ## 🌟 What You'll Find Here
 
 ✔ SQL Projects
@@ -96,9 +70,9 @@ My GitHub showcases projects focused on data cleaning, exploratory data analysis
 
 ## 📫 Let's Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/your-profile
+💼 LinkedIn: https://www.linkedin.com/in/jahnvisingla/
 
-📧 Email: your.email@example.com
+📧 Email: singlajahnvi102@gmail.com
 
 ---
 
