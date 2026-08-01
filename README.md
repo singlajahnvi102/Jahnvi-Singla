@@ -1,10 +1,17 @@
 # Jahnvi Singla
 
 # Hi there! 👋 I'm Jahnvi Singla
-
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ## 📊 Aspiring Data Analyst | MBA (Business Analytics)
 
-I am passionate about transforming raw data into meaningful business insights. I enjoy solving real-world business problems through data analysis, SQL, Python, Excel, and Power BI.
+I enjoy solving business problems with data by uncovering patterns, building dashboards, and delivering actionable insights. My goal is to transform raw data into meaningful decisions that create business value.
 
 My GitHub showcases projects focused on data cleaning, exploratory data analysis, business intelligence, dashboard development, and data visualization. I believe that every dataset tells a story, and I love uncovering it.
 
